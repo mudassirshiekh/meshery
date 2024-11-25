@@ -251,6 +251,7 @@ Meshery is the cloud native utility for uniformly managing the performance of mi
 </p>
 
 ## Meshery Architecture
+## BY Mudassir Alam
 
 You may deploy Meshery internal to your cluster or external to your cluster.
 
